@@ -1,4 +1,4 @@
-# BenCodeZen
+# Weirdo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cc296117-1fb1-45c8-9548-538b227d3758/deploy-status)](https://app.netlify.com/sites/bencodezen/deploys)
 

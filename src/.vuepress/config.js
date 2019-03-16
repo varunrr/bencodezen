@@ -1,6 +1,7 @@
 module.exports = {
-	title: 'BenCodeZen',
+	title: 'Weirdo',
 	dest: './public',
+	host: 'localhost',
 	themeConfig: {
 		domain: 'https://www.bencodezen.io',
 		repo: 'https://github.com/bencodezen/bencodezen',
@@ -68,7 +69,7 @@ module.exports = {
 			'@vuepress/google-analytics',
 			{
 				ga: 'UA-92645815-1'
-			}	
+			}
 		],
 		[
 			'vuepress-plugin-rss',

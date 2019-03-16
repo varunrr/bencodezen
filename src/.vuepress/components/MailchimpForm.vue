@@ -20,12 +20,12 @@ export default {
     <div id="mc_embed_signup_scroll">
       <div class="mc-field-group">
         <label class="email-label" for="mce-EMAIL">Email Address</label>
-        <input 
-          class="email-input" 
-          type="email" 
-          value 
-          name="EMAIL" 
-          id="mce-EMAIL" 
+        <input
+          class="email-input"
+          type="email"
+          value
+          name="EMAIL"
+          id="mce-EMAIL"
           placeholder="username@domain.com"
           required>
       </div>
@@ -40,7 +40,7 @@ export default {
         >
         <label
           for="mce-group[23521]-23521-0"
-        >I would like to subscribe to emails from BenCodeZen</label>
+        >I would like to subscribe to emails from Weirdo</label>
       </div>
       <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
